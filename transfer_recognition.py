@@ -73,9 +73,6 @@ class ImageTransform():
 
 
 # In[6]:
-
-
-os.chdir('../Downloads/pytorch_advanced-master/1_image_classification/')
 def make_datapath_list(phase="train"):
 
     rootpath = "./data/hymenoptera_data/"
